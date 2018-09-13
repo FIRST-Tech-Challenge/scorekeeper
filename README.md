@@ -27,6 +27,8 @@ Click on the "Issues" link towards the upper left hand corner of the main page o
 
 The developers of the software requested that if you encounter a bug, you copy and archive (compress into .zip form) the "db" subdirectory and then create an issue on the Issues database and attach the .zip file to the newly created issue and save the attachment with the issue.  The "db" folder is located in the "lib" subfolder.
 
+While you are editing your issue, if you click the link called "selecting them" towards the bottom of the issue window, a dialog box will appear.  You can use this dialog box to select a local file from your computer to attach to the issue that you are editing.
+
 <p align="center"><img src="https://github.com/FIRST-Tech-Challenge/WikiSupport/blob/master/scorekeeper/selectingThem.png" width="600"></p>
 <p align="center">Click on the "selecting them" link to go to browse and attach a local file to your issue.</p>
 
