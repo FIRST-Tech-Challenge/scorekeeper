@@ -30,5 +30,5 @@ The developers of the software requested that if you encounter a bug, you copy a
 While you are editing your issue, if you click the link called "selecting them" towards the bottom of the issue window, a dialog box will appear.  You can use this dialog box to select a local file from your computer to attach to the issue that you are editing.
 
 <p align="center"><img src="https://github.com/FIRST-Tech-Challenge/WikiSupport/blob/master/scorekeeper/selectingThem.png" width="600"></p>
-<p align="center">Click on the "selecting them" link to go to browse and attach a local file to your issue.</p>
+<p align="center">Click on the "selecting them" link to attach a local file to your issue.</p>
 
