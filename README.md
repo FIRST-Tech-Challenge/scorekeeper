@@ -2,10 +2,18 @@
 This GitHub repository can be used to download the FIRST Tech Challenge Live scorekeeper software.  Also, if you have a GitHub user account, you can use the "Issues" database feature to report and track issues with the software.
 
 ## Downloading the software
-The software is available for download under the Releases page of this repository.  Click on the "releases" link towards the upper right hand corner of the main page to navigate to the Release page.  Browse the releases page for version you are looking forward, and click on the appropriate link to download the archived software.  The software is stored on the server as an archived .zip or .tar file.  Once you have downloaded the archive file, uncompress the file using the appropriate tool for your computer.
+The software is available for download under the Releases page of this repository.  Click on the "releases" link towards the upper right hand corner of the main page to navigate to the Release page.
 
 <p align="center"><img src="https://github.com/FIRST-Tech-Challenge/WikiSupport/blob/master/scorekeeper/releasesLink.png" width="400"></p>
 <p align="center">Click on "releases" link to go to the Releases page.</p>
+
+Browse the releases page for version you are looking forward, and click on the appropriate link to download the archived software.  The software is stored on the server as an archived .zip or .tar file.  Note that most users (Windows and Mac users especially) will want to download the .zip format archive file.
+
+<p align="center"><img src="https://github.com/FIRST-Tech-Challenge/WikiSupport/blob/master/scorekeeper/downloadZip.png" width="400"></p>
+<p align="center">Click on the file that you'd like to download.</p>
+
+
+Once you have downloaded the archive file, uncompress the file using the appropriate tool for your computer.
 
 Note that you want to download the "FIRST-Tech-Challenge-Live" archive file, and not the "Source code" file.  The "Source code" file does not contain any usable content.
 
