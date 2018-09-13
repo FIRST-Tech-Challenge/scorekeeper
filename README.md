@@ -22,5 +22,11 @@ Currently, the user documentation exists as a living Google Drive document.  You
 ## Reporting Issues
 Click on the "Issues" link towards the upper left hand corner of the main page of this repository to navigate to the Issue Tracking Database page.  If you are logged in to your GitHub user account (which is available for free from GitHub) you can create and reply to issues in the database.  
 
+<p align="center"><img src="https://github.com/FIRST-Tech-Challenge/WikiSupport/blob/master/scorekeeper/issues.png" width="600"></p>
+<p align="center">Click on "Issues" link to go to the Issues page.</p>
+
 The developers of the software requested that if you encounter a bug, you copy and archive (compress into .zip form) the "db" subdirectory and then create an issue on the Issues database and attach the .zip file to the newly created issue and save the attachment with the issue.  The "db" folder is located in the "lib" subfolder.
+
+<p align="center"><img src="https://github.com/FIRST-Tech-Challenge/WikiSupport/blob/master/scorekeeper/selectingThem.png" width="400"></p>
+<p align="center">Click on "selecting them" link to go to browse and attach a local file to your issue.</p>
 
