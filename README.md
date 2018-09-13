@@ -1,5 +1,5 @@
 # Welcome!
-This GitHub repository can be used to download the FIRST Tech Challenge Live scorekeeper software.  Also, if you have a GitHub user account, you can use the "Issues" database feature to report and track issues with the software.
+This GitHub repository can be used to download the FIRST Tech Challenge Live scorekeeper software.  Also, if you have a GitHub user account, you can use the "Issues" database to report and track issues with the software.
 
 ## Downloading the software
 The software is available for download under the Releases page of this repository.  Click on the "releases" link towards the upper right hand corner of the main page to navigate to the Release page.
