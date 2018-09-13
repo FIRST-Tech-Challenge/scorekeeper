@@ -7,7 +7,7 @@ The software is available for download under the Releases page of this repositor
 <p align="center"><img src="https://github.com/FIRST-Tech-Challenge/WikiSupport/blob/master/scorekeeper/releasesLink.png" width="400"></p>
 <p align="center">Click on the "releases" link to go to the Releases page.</p>
 
-Browse the releases page for version you are looking forward, and click on the appropriate link to download the archived software.  The software is stored on the server as an archived .zip or .tar file.  Note that most users (Windows and Mac users especially) will want to download the .zip format archive file.  Once you have downloaded the archive file, uncompress the file using the appropriate tool for your computer.
+Browse the releases page for version you are looking forward, and click on the appropriate link to download the archived software.  The software is stored on the server as an archived .zip or .tar file.  Note that most users (Windows and Mac users especially) will want to download the .zip format archive file.  Once you have downloaded the archive file, uncompress the file using the appropriate tool on your computer.
 
 <p align="center"><img src="https://github.com/FIRST-Tech-Challenge/WikiSupport/blob/master/scorekeeper/downloadZip.png" width="400"></p>
 <p align="center">Click on the file that you'd like to download.</p>
