@@ -2,7 +2,7 @@
 This GitHub repository can be used to download the FIRST Tech Challenge Live scorekeeper software.  Also, if you have a GitHub user account, you can use the "Issues" database to report and track issues with the software.
 
 ## Downloading the software
-The software is available for download under the Releases page of this repository.  Click on the "releases" link towards the upper right hand corner of the main page to navigate to the Release page.
+The software is available for download under the [Releases page](https://github.com/FIRST-Tech-Challenge/scorekeeper/releases) of this repository.  Click on the "releases" link towards the upper right hand corner of the main page to navigate to the [Releases page](https://github.com/FIRST-Tech-Challenge/scorekeeper/releases).
 
 <p align="center"><img src="https://github.com/FIRST-Tech-Challenge/WikiSupport/blob/master/scorekeeper/releasesLink.png" width="400"></p>
 <p align="center">Click on the "releases" link to go to the Releases page.</p>
@@ -20,7 +20,7 @@ Currently, the user documentation exists as a living Google Drive document.  You
 &nbsp;&nbsp;[User Documentation for Scorekeeping Software](https://docs.google.com/document/d/1x5OHQiNgm70inQ-FRYEhM0RPY0hKwaQIH3_FfDnf1bw/edit?usp=sharing)
 
 ## Reporting Issues
-Click on the "Issues" link towards the upper left hand corner of the main page of this repository to navigate to the Issue Tracking Database page.  If you are logged in to your GitHub user account (which is available for free from GitHub) you can create and reply to issues in the database.  
+Click on the ["Issues"link](https://github.com/FIRST-Tech-Challenge/scorekeeper/issues) towards the upper left hand corner of the main page of this repository to navigate to the [Issue Tracking Database page](https://github.com/FIRST-Tech-Challenge/scorekeeper/issues).  If you are logged in to your GitHub user account (which is available for free from GitHub) you can create and reply to issues in the database.  
 
 <p align="center"><img src="https://github.com/FIRST-Tech-Challenge/WikiSupport/blob/master/scorekeeper/issues.png" width="400"></p>
 <p align="center">Click on the "Issues" link to go to the Issues page.</p>
