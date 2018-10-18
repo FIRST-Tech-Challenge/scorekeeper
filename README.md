@@ -15,7 +15,7 @@ Browse the [Releases page](https://github.com/FIRST-Tech-Challenge/scorekeeper/r
 Note that you want to download the "FIRST-Tech-Challenge-Live" archive file, and not the "Source code" file.  The "Source code" file does not contain any usable content.
 
 ## Documentation
-Currently, a draft version of the user documentation can be found here:
+The user documentation can be found here:
 
 &nbsp;&nbsp;https://github.com/FIRST-Tech-Challenge/scorekeeper/files/2492209/FTC.Scorekeeper.Manual.v0.4.0.pdf
 
