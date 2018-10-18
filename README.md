@@ -17,7 +17,7 @@ Note that you want to download the "FIRST-Tech-Challenge-Live" archive file, and
 ## Documentation
 Currently, a draft version of the user documentation can be found here:
 
-&nbsp;&nbsp;https://github.com/FIRST-Tech-Challenge/scorekeeper/files/2474244/Draft.Scorekeeper.Manual.v0.3.3.pdf
+&nbsp;&nbsp;https://github.com/FIRST-Tech-Challenge/scorekeeper/files/2492209/FTC.Scorekeeper.Manual.v0.4.0.pdf
 
 ## Reporting Issues
 Click on the ["Issues" link](https://github.com/FIRST-Tech-Challenge/scorekeeper/issues) towards the upper left hand corner of the main page of this repository to navigate to the [Issue Tracking Database page](https://github.com/FIRST-Tech-Challenge/scorekeeper/issues).  If you are logged in to your GitHub user account (which is available for free from GitHub) you can create and reply to issues in the database.  
