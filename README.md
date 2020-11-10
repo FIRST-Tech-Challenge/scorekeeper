@@ -1,4 +1,14 @@
-# Welcome!
+# Attention: Remote Events
+
+This is the software used to run **traditional** in-person events.  
+
+If you are a mentor or team administrator trying to score **remote** event matches, go here: [FTC Remote Scoring](https://ftc-scoring.firstinspires.org)
+
+Full documentation can be found in the [FTC Scoring Team Guide](https://www.firstinspires.org/sites/default/files/uploads/resource_library/ftc/ftc-cloudscoring-team-user-guide.pdf)
+
+A video walkthrough can be found on YouTube: [Remote Event Scoring For Teams](https://www.youtube.com/watch?v=5pGDi_Kq7ks&list=PLEuGrYl8iBm48sXHM8wOIPECDvD1zGgr2)
+
+# Welcome: Traditional Events
 This GitHub repository can be used to download the _FIRST_ Tech Challenge Live scorekeeper software.  Also, if you have a GitHub user account, you can use the ["Issues" database](https://github.com/FIRST-Tech-Challenge/scorekeeper/issues) to report and track issues with the software.
 
 ## Downloading the software
