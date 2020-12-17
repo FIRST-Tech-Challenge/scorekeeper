@@ -1,6 +1,6 @@
 ---
-name: Local (FTCLive) Bug Report
-about: Submit a bug in the local scoring system
+name: Traditional (FTCLive) Bug Report
+about: Submit a bug in the traditional scoring system
 title: ''
 labels: Local, bug
 assignees: ''

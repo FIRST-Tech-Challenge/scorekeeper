@@ -1,6 +1,6 @@
 ---
-name: Local (FTCLive) Feature Request
-about: Suggest an idea for ftc-scoring.firstinspires.org
+name: Traditional (FTCLive) Feature Request
+about: Suggest an idea for the traditional scoring system
 title: ''
 labels: Local, enhancement
 assignees: ''
