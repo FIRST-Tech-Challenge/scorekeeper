@@ -4,7 +4,7 @@ This is the software used to run **traditional** in-person events.
 
 If you are a mentor or team administrator trying to score **remote** event matches, go here: [FTC Remote Scoring](https://ftc-scoring.firstinspires.org)
 
-Full documentation can be found in the [FTC Scoring Team Guide](https://www.firstinspires.org/sites/default/files/uploads/resource_library/ftc/ftc-cloudscoring-team-user-guide.pdf)
+Full documentation can be found in the [FTC Scoring Team Guide](https://www.firstinspires.org/sites/default/files/uploads/resource_library/ftc/scoring-team-guide.pdf)
 
 A video walkthrough can be found on YouTube: [Remote Event Scoring For Teams](https://www.youtube.com/watch?v=5pGDi_Kq7ks&list=PLEuGrYl8iBm48sXHM8wOIPECDvD1zGgr2)
 
@@ -27,7 +27,7 @@ Note that you want to download the "FIRST-Tech-Challenge-Live" archive file, and
 ## Documentation
 The user documentation can be found here:
 
-&nbsp;&nbsp;[FTC Scorekeeper Manual](https://www.firstinspires.org/sites/default/files/uploads/resource_library/ftc/scorekeeper-manual.pdf)
+&nbsp;&nbsp;[FTC Scorekeeper Manual](https://www.firstinspires.org/sites/default/files/uploads/resource_library/ftc/scorekeeper-guide.pdf)
 
 ## Reporting Issues
 Click on the ["Issues" link](https://github.com/FIRST-Tech-Challenge/scorekeeper/issues) towards the upper left hand corner of the main page of this repository to navigate to the [Issue Tracking Database page](https://github.com/FIRST-Tech-Challenge/scorekeeper/issues).  If you are logged in to your GitHub user account (which is available for free from GitHub) you can create and reply to issues in the database.  
