@@ -17,11 +17,12 @@ Starting with the 2022-2023 season, the scoring system is primarily available to
 
 ### Current Links
 
-| Game                              | Link                                                       |
-| --------------------------------- | ---------------------------------------------------------- |
-| **CENTERSTAGE (2023-2024)**       | https://ftc-scoring.firstinspires.org/local/2024           |
-| POWERPLAY (2022-2023) - Offseason | https://ftc-scoring.firstinspires.org/local/2023-offseason |
-| POWERPLAY (2022-2023)             | https://ftc-scoring.firstinspires.org/local/2023           |
+| Game                                    | Link                                                       |
+| --------------------------------------- | ---------------------------------------------------------- |
+| **CENTERSTAGE (2023-2024) - Offseason** | https://ftc-scoring.firstinspires.org/local/2024-offseason |
+| CENTERSTAGE (2023-2024)                 | https://ftc-scoring.firstinspires.org/local/2024           |
+| POWERPLAY (2022-2023) - Offseason       | https://ftc-scoring.firstinspires.org/local/2023-offseason |
+| POWERPLAY (2022-2023)                   | https://ftc-scoring.firstinspires.org/local/2023           |
 
 The scoring system will autoupdate to the latest available version for the season on launch if connected to the internet.
 
