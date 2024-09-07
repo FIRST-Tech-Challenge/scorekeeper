@@ -19,7 +19,8 @@ Starting with the 2022-2023 season, the scoring system is primarily available to
 
 | Game                                    | Link                                                       |
 | --------------------------------------- | ---------------------------------------------------------- |
-| **CENTERSTAGE (2023-2024) - Offseason** | https://ftc-scoring.firstinspires.org/local/2024-offseason |
+| INTO THE DEEP (2024-2025)               | https://ftc-scoring.firstinspires.org/local/2025           |
+| CENTERSTAGE (2023-2024) - Offseason     | https://ftc-scoring.firstinspires.org/local/2024-offseason |
 | CENTERSTAGE (2023-2024)                 | https://ftc-scoring.firstinspires.org/local/2024           |
 | POWERPLAY (2022-2023) - Offseason       | https://ftc-scoring.firstinspires.org/local/2023-offseason |
 | POWERPLAY (2022-2023)                   | https://ftc-scoring.firstinspires.org/local/2023           |
