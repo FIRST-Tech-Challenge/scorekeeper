@@ -2,10 +2,6 @@
 
 This is the software used to run **traditional** in-person events.
 
-If you are a mentor or team administrator trying to score **remote** event matches, go here: [FTC Remote Scoring](https://ftc-scoring.firstinspires.org)
-
-Full documentation can be found in the [FTC Scoring Team Guide](https://www.firstinspires.org/sites/default/files/uploads/resource_library/ftc/scoring-team-guide.pdf)
-
 # Welcome: Traditional Events
 
 This GitHub repository is used to [report and track issues](https://github.com/FIRST-Tech-Challenge/scorekeeper/issues) with the _FIRST_ Tech Challenge Live Scorekeeper Software.
