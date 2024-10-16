@@ -1,5 +1,3 @@
-# Attention: Remote Events
-
 This is the software used to run **traditional** in-person events.
 
 # Welcome: Traditional Events
