@@ -2,7 +2,8 @@
 name: Cloud Scoring Feature Request
 about: Suggest an idea for for ftc-scoring.firstinspires.org
 title: ''
-labels: Cloud, enhancement
+labels: Cloud
+type: Feature
 assignees: ''
 
 ---

@@ -2,7 +2,8 @@
 name: FTC Events Bug Report
 about: Submit a bug in ftc-events.firstinspires.org (including ftc-api)
 title: ''
-labels: ftc-events, bug
+labels: ftc-events
+type: Bug
 assignees: ''
 
 ---

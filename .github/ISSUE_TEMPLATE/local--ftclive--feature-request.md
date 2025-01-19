@@ -2,7 +2,8 @@
 name: Traditional (FTCLive) Feature Request
 about: Suggest an idea for the traditional scoring system
 title: ''
-labels: Local, enhancement
+labels: Local
+type: Feature
 assignees: ''
 
 ---

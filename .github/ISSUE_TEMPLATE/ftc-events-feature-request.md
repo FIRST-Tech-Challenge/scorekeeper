@@ -2,7 +2,8 @@
 name: FTC Events Feature Request
 about: Suggest an idea for for ftc-events.firstinspires.org (including ftc-api)
 title: ''
-labels: ftc-events, enhancement
+labels: ftc-events
+type: Feature
 assignees: ''
 
 ---

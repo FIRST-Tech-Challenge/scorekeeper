@@ -2,7 +2,8 @@
 name: Cloud Scoring Bug Report
 about: Submit a bug in ftc-scoring.firstinspires.org
 title: ''
-labels: Cloud, bug
+labels: Cloud
+type: Bug
 assignees: ''
 
 ---

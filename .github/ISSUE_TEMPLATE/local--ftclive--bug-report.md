@@ -2,7 +2,8 @@
 name: Traditional (FTCLive) Bug Report
 about: Submit a bug in the traditional scoring system
 title: ''
-labels: Local, bug
+labels: Local
+type: Bug
 assignees: ''
 
 ---
