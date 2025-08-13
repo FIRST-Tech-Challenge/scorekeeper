@@ -49,7 +49,7 @@ To launch, extract the zip and open the `FTCLauncher` file on macOS/Linux or the
 
 ## Documentation
 
-The user documentation can be found here: [FTC Scorekeeper Manual](https://www.firstinspires.org/sites/default/files/uploads/resource_library/ftc/scorekeeper-guide.pdf).
+The user documentation can be found here: [FTC Scorekeeper Manual](https://www.firstinspires.org/sites/default/files/uploads/resource_library/ftc/scorekeeper-manual.pdf).
 
 ## Reporting Issues
 
