@@ -13,6 +13,7 @@ Starting with the 2022-2023 season, the scoring system is primarily available to
 
 | Game                                    | Link                                                       |
 | --------------------------------------- | ---------------------------------------------------------- |
+| DECODE (2025-2026)                      | https://ftc-scoring.firstinspires.org/local/2026           |
 | INTO THE DEEP (2024-2025) - Offseason   | https://ftc-scoring.firstinspires.org/local/2025-offseason |
 | INTO THE DEEP (2024-2025)               | https://ftc-scoring.firstinspires.org/local/2025           |
 | CENTERSTAGE (2023-2024) - Offseason     | https://ftc-scoring.firstinspires.org/local/2024-offseason |
