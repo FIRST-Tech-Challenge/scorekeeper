@@ -50,7 +50,8 @@ To launch, extract the zip and open the `FTCLauncher` file on macOS/Linux or the
 
 ## Documentation
 
-The user documentation can be found here: [FTC Scorekeeper Manual](https://www.firstinspires.org/sites/default/files/uploads/resource_library/ftc/scorekeeper-manual.pdf).
+Information about the (Lead) Scorekeeper role and responsibilitie can be found in the [FTC Scorekeeper Manual](https://ftc-resources.firstinspires.org/ftc/volunteer/lead-scorekeeper).
+Instructions for setting up and operating FTC-Live are available in the [FTC-Live Setup Guide](https://ftc-resources.firstinspires.org/ftc/event/scoring-setup).
 
 ## Reporting Issues
 
