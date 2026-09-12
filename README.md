@@ -7,19 +7,20 @@ This GitHub repository is used to [report and track issues](https://github.com/F
 ## Downloading the software
 
 Starting with the 2022-2023 season, the scoring system is primarily available to download as an installer. The installers can be found at
-`https://ftc-scoring.firstinspires.org/local/<season>` (and `https://ftc-scoring.firstinspires.org/local/<season>-offseason` after the season's world championship when offseason events can be hosted).
+`https://event-portal.firstinspires.org/ftc/<season>/local` (and, for seasons prior to 2025-2026, `https://event-portal.firstinspires.org/ftc/<season>/local/offseason` after the season's world championship when offseason events can be hosted -- for later seasons, offseasons are supported with the official build with an update soon after the *FIRST* Championship).
 
 ### Current Links
 
-| Game                                    | Link                                                       |
-| --------------------------------------- | ---------------------------------------------------------- |
-| DECODE (2025-2026)                      | https://ftc-scoring.firstinspires.org/local/2026           |
-| INTO THE DEEP (2024-2025) - Offseason   | https://ftc-scoring.firstinspires.org/local/2025-offseason |
-| INTO THE DEEP (2024-2025)               | https://ftc-scoring.firstinspires.org/local/2025           |
-| CENTERSTAGE (2023-2024) - Offseason     | https://ftc-scoring.firstinspires.org/local/2024-offseason |
-| CENTERSTAGE (2023-2024)                 | https://ftc-scoring.firstinspires.org/local/2024           |
-| POWERPLAY (2022-2023) - Offseason       | https://ftc-scoring.firstinspires.org/local/2023-offseason |
-| POWERPLAY (2022-2023)                   | https://ftc-scoring.firstinspires.org/local/2023           |
+| Game                                    | Link                                                            |
+| --------------------------------------- | --------------------------------------------------------------- |
+| BIOBUZZ (2026-2027)                     | https://event-portal.firstinspires.org/ftc/2027/local           |
+| DECODE (2025-2026)                      | https://event-portal.firstinspires.org/ftc/2026/local           |
+| INTO THE DEEP (2024-2025) - Offseason   | https://event-portal.firstinspires.org/ftc/2025/local/offseason |
+| INTO THE DEEP (2024-2025)               | https://event-portal.firstinspires.org/ftc/2025/local           |
+| CENTERSTAGE (2023-2024) - Offseason     | https://event-portal.firstinspires.org/ftc/2024/local/offseason |
+| CENTERSTAGE (2023-2024)                 | https://event-portal.firstinspires.org/ftc/2024/local           |
+| POWERPLAY (2022-2023) - Offseason       | https://event-portal.firstinspires.org/ftc/2023/local/offseason |
+| POWERPLAY (2022-2023)                   | https://event-portal.firstinspires.org/ftc/2023/local           |
 
 The scoring system will autoupdate to the latest available version for the season on launch if connected to the internet.
 
