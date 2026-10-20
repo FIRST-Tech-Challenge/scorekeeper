@@ -7,20 +7,20 @@ This GitHub repository is used to [report and track issues](https://github.com/F
 ## Downloading the software
 
 Starting with the 2022-2023 season, the scoring system is primarily available to download as an installer. The installers can be found at
-`https://ftc-scoring.firstinspires.org/local/<season>` (and `https://ftc-scoring.firstinspires.org/local/<season>-offseason` after the season's world championship when offseason events can be hosted).
+`https://event-portal.firstinspires.org/ftc/<season>/local`
 
 ### Current Links
 
-| Game                                    | Link                                                       |
-| --------------------------------------- | ---------------------------------------------------------- |
-| BIOBUZZ (2026-2027)                     | https://event-portal.firstinspires.org/ftc/2027/local      |
-| DECODE (2025-2026)                      | https://ftc-scoring.firstinspires.org/local/2026           |
-| INTO THE DEEP (2024-2025) - Offseason   | https://ftc-scoring.firstinspires.org/local/2025-offseason |
-| INTO THE DEEP (2024-2025)               | https://ftc-scoring.firstinspires.org/local/2025           |
-| CENTERSTAGE (2023-2024) - Offseason     | https://ftc-scoring.firstinspires.org/local/2024-offseason |
-| CENTERSTAGE (2023-2024)                 | https://ftc-scoring.firstinspires.org/local/2024           |
-| POWERPLAY (2022-2023) - Offseason       | https://ftc-scoring.firstinspires.org/local/2023-offseason |
-| POWERPLAY (2022-2023)                   | https://ftc-scoring.firstinspires.org/local/2023           |
+| Game                                    | Link                                                            |
+| --------------------------------------- | --------------------------------------------------------------- |
+| BIOBUZZ (2026-2027)                     | https://event-portal.firstinspires.org/ftc/2027/local           |
+| DECODE (2025-2026)                      | https://event-portal.firstinspires.org/ftc/2026/local           |
+| INTO THE DEEP (2024-2025) - Offseason   | https://event-portal.firstinspires.org/ftc/2025/local/offseason |
+| INTO THE DEEP (2024-2025)               | https://event-portal.firstinspires.org/ftc/2025/local           |
+| CENTERSTAGE (2023-2024) - Offseason     | https://event-portal.firstinspires.org/ftc/2024/local/offseason |
+| CENTERSTAGE (2023-2024)                 | https://event-portal.firstinspires.org/ftc/2024/local           |
+| POWERPLAY (2022-2023) - Offseason       | https://event-portal.firstinspires.org/ftc/2023/local/offseason |
+| POWERPLAY (2022-2023)                   | https://event-portal.firstinspires.org/ftc/2023/local           |
 
 The scoring system will autoupdate to the latest available version for the season on launch if connected to the internet.
 
@@ -45,7 +45,7 @@ There is a download available under the "Advanced" dropdown that works on all pl
 ![Advanced download section screenshot](https://github.com/FIRST-Tech-Challenge/scorekeeper/assets/3067361/9371f9c2-06f8-40b9-a06f-17e838c8fa44)
 
 > [!NOTE]
-> This requires a global installation of Java 17, which can be [downloaded and installed from here](https://www.azul.com/downloads/?version=java-17-lts&package=jre).
+> This requires a global installation of Java 25, which can be [downloaded and installed from here](https://www.azul.com/downloads/?version=java-17-lts&package=jre).
 
 To launch, extract the zip and open the `FTCLauncher` file on macOS/Linux or the `FTCLauncher.bat` file on Windows. This version of the scoring system still has the same auto-update feature as the installer version.
 
