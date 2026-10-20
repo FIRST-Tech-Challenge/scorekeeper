@@ -13,6 +13,7 @@ Starting with the 2022-2023 season, the scoring system is primarily available to
 
 | Game                                    | Link                                                       |
 | --------------------------------------- | ---------------------------------------------------------- |
+| BIOBUZZ (2026-2027)                     | https://event-portal.firstinspires.org/ftc/2027/local      |
 | DECODE (2025-2026)                      | https://ftc-scoring.firstinspires.org/local/2026           |
 | INTO THE DEEP (2024-2025) - Offseason   | https://ftc-scoring.firstinspires.org/local/2025-offseason |
 | INTO THE DEEP (2024-2025)               | https://ftc-scoring.firstinspires.org/local/2025           |
