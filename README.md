@@ -35,7 +35,7 @@ If you need to download for one system from another (e.g. the scoring computer r
 If you are downloading for macOS or for Linux and are unsure which download is correct for you, run `uname -m` in a terminal and select the corresponding download.
 
 > [!WARNING]
-> While we will address any issues reported through this repository for Linux, we are unable to provide Linux-specific event-day support and therefore encourage running the scoring system on Windows or macOS unless your event has volunteers sufficiently experienced in debugging issues on Linux.
+> While we will address any issues reported through this repository for Linux, we are unable to provide Linux-specific event-day support, and therefore encourage running the scoring system on Windows or macOS unless your event has volunteers sufficiently experienced in debugging issues on Linux.
 
 ### Advanced installer
 
@@ -45,13 +45,13 @@ There is a download available under the "Advanced" dropdown that works on all pl
 ![Advanced download section screenshot](https://github.com/FIRST-Tech-Challenge/scorekeeper/assets/3067361/9371f9c2-06f8-40b9-a06f-17e838c8fa44)
 
 > [!NOTE]
-> This requires a global installation of Java 25, which can be [downloaded and installed from here](https://www.azul.com/downloads/?version=java-17-lts&package=jre).
+> This requires a global installation of Java 25, which can be [downloaded and installed from here](https://www.azul.com/downloads/?version=java-25-lts&package=jre#zulu).
 
 To launch, extract the zip and open the `FTCLauncher` file on macOS/Linux or the `FTCLauncher.bat` file on Windows. This version of the scoring system still has the same auto-update feature as the installer version.
 
 ## Documentation
 
-Information about the (Lead) Scorekeeper role and responsibilitie can be found in the [FTC Scorekeeper Manual](https://ftc-resources.firstinspires.org/ftc/volunteer/lead-scorekeeper).
+Information about the (Lead) Scorekeeper role and responsibilities can be found in the [FTC Scorekeeper Manual](https://ftc-resources.firstinspires.org/ftc/volunteer/lead-scorekeeper).
 Instructions for setting up and operating FTC-Live are available in the [FTC-Live Setup Guide](https://ftc-resources.firstinspires.org/ftc/event/scoring-setup).
 
 ## Reporting Issues
@@ -61,7 +61,7 @@ Click on the ["Issues" link](https://github.com/FIRST-Tech-Challenge/scorekeeper
 <p align="center"><img src="https://github.com/FIRST-Tech-Challenge/WikiSupport/blob/master/scorekeeper/issues.png" width="400"></p>
 <p align="center">Click on the "Issues" link to go to the Issues page.</p>
 
-The developers of the software requested that if you encounter a bug, you copy and archive (compress into .zip form) the "db" subdirectory and then create an issue on the Issues database and attach the .zip file to the newly created issue and save the attachment with the issue. The "db" folder is located in the "lib" subfolder.
+The developers of the software requested that if you encounter a bug, you copy and archive (compress into .zip form) the `db` folder, create an issue on the Issues database, attach the .zip file to the newly created issue, and save the attachment with the issue.
 
 While you are editing your issue, if you click the link called "selecting them" towards the bottom of the issue window, a dialog box will appear. You can use this dialog box to select a local file from your computer to attach to the issue that you are editing.
 
